@@ -1,0 +1,25 @@
+# Entorno virtual
+venv/
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Django
+db.sqlite3
+*.log
+staticfiles/
+
+# Editor / herramientas
+.vscode/
+.idea/
+.claude/
+Claude outputs/
+
+# Sistema
+Thumbs.db
+.DS_Store
+
+# Documentos de la practica
+*.docx
